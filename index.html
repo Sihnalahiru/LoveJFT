@@ -1,27 +1,26 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="theme-color" content="#101827">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <title>JFT Master — Japanese Self Study</title>
-  <link rel="manifest" href="manifest.json">
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <div id="app"><div class="boot"><div style="font-size:2rem">🇯🇵</div><h1>JFT Master</h1><p>Loading source-safe learning system...</p></div></div>
-  <script src="./data-inline.js"></script>
-  <script src="./app.js" defer></script>
-  <script src="./app-fix.js" defer></script>
-  <script>
-    window.setTimeout(function () {
-      var app = document.getElementById('app');
-      if (app && app.querySelector('.boot') && !app.querySelector('.nav')) {
-        app.innerHTML = '<div class="boot"><div style="font-size:2rem">⚠️</div><h1>JFT Master</h1><p>App engine did not start.</p><p style="max-width:34rem;margin:0 auto">Please refresh once. If this message remains, the deployed static files are not being served correctly.</p><button onclick="location.reload()" style="margin-top:18px;padding:12px 18px;border:0;border-radius:12px;cursor:pointer">Reload</button></div>';
-      }
-    }, 8000);
-  </script>
-</body>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="theme-color" content="#101827">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>JFT Master — Japanese Self Study</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div id="app" aria-live="polite">
+      <div class="boot">
+        <div style="font-size:2rem">🇯🇵</div>
+        <h1>JFT Master</h1>
+        <p>Loading source-safe learning system...</p>
+      </div>
+    </div>
+
+    <script src="./data-inline.js"></script>
+    <script src="./app.js" defer></script>
+    <script src="./app-fix.js" defer></script>
+  </body>
 </html>
