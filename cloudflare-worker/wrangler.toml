@@ -1,0 +1,6 @@
+name = "i-jft"
+main = "worker.js"
+compatibility_date = "2026-10-07"
+
+[vars]
+GEMINI_MODEL = "gemini-3.8-flash"

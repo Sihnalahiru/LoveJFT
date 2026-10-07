@@ -1,0 +1,276 @@
+                  JFT Topic Word Lists
+                  Browse Japanese vocabulary organized by JFT exam topics - food, work, transport.
+      語              Japanese Language Tools
+                   ✓ Free   ✓ No Login Required   ✓ Mobile Friendly
+
+
+
+
+JFT Topic Word Lists                                                                                                                           🖨️ Print Word List
+
+Browse Japanese vocabulary by topic category.
+
+
+  General                                                                                                                                               78 words
+
+  #       Kanji                                                       Furigana   Romaji                               English
+
+  1       はい                                                          -          wa                                   Yes
+
+
+  2       いいえ                                                         -          iie                                  No
+
+
+  3       わかるか?                                                       -          Wakaru ka?                           Do you understand?
+
+
+  4       わからない                                                       -          Wakaranai                            I don't understand
+
+
+  5       わかりました                                                      -          Wakarimashita                        I understand
+
+
+  6       ありがとうございます                                                  -          Arigatou gozaimasu                   Thank you
+
+
+  7       お願い...                                                      -          Onegai...                            Please...
+
+
+  8       ごめんなさい(謝罪)                                                  -          Gomen nasai (shazai)                 I'm sorry (Apologize)
+
+
+  9       もう一度言ってくれ                                                   -          Mou ichido itte kure                 Please say that again
+
+
+  10      もう一度言ってもらえますか?                                              -          Mou ichido itte moraemasu ka?        Can you repeat that?
+
+
+  11      ゆっくり話せる?                                                    -          Yukkuri hanaseru?                    Can you speak slowly?
+
+
+  12      ごめんなさい(同情)                                                  -          Gomen nasai (doujou)                 I'm sorry (Sympathy)
+
+
+                                                                                 Daijoubu desu (watashi wa daijoubu
+  13      大丈夫です(私は大丈夫です)                                              -
+                                                                                 desu)
+                                                                                                                      It's alright (I'm ok)
+
+
+  14      わからない                                                       -          Wakaranai                            I don't know
+
+
+  15      好きじゃない                                                      -          Suki janai                           I don't like it
+
+
+  16      気に入った                                                       -          Kiniitta                             I like it
+
+
+  17      どういたしまして                                                    -          Dou itashimashite                    You're welcome
+
+
+  18      喜んで                                                         -          yorokonde                            With my pleasure
+
+
+  19      わかってる...                                                    -          Wakatteru...                         I understand that...
+
+
+  20      私は欲しい/私は...                                                 -          Watashi wa hoshii/watashi wa...      I would like/ I want..
+
+
+  21      好きだよ...                                                     -          Suki da yo...                        I like..
+
+
+                                                                                 Denwa o tsukawasete moraemasu                                  Foreign Language Study
+  22      電話を使わせてもらえますか?                                              -
+                                                                                 ka?
+                                                                                                                      May I use your phone?
+#    Kanji              Furigana   Romaji                                   English
+
+23   本当ですか?             -          Hontou desu ka?                          Are you sure?
+
+
+24   英語は話せますか?          -          Eigo wa hanasemasu ka?                   Can you speak English?
+
+
+25   これはどういう意味でしょうか?    -          Kore wa dou iu imi deshou ka?            What does this mean?
+
+
+26   どう発音するの?           -          Dou hatsuon suru no?                     How do you pronounce this?
+
+
+
+27
+     どうやって言えばいいのか書いてく   -          Dou yatte ieba ii no ka kaite kurenai?   Could you write how to say that for me?
+     れない?
+                                                                            Could you write that down for me in Chinese
+28   それを漢字で書いてくれますか?    -          Sore o kanji de kaite kuremasu ka?
+                                                                            Character?
+
+
+
+29
+     この件のピンインを書いてもらえま   -
+                                   Kono ken no pinin o kaite
+                                                                            Could you write down the pinyin for this?
+     すか?                           moraemasu ka?
+
+
+30   いいえ、結構です!          -          Iie, kekkou desu!                        No, thanks!
+
+
+31   違う、それは違う           -          Chigau, sore wa chigau                   No, that's wrong
+
+
+32   その通り               -          Sono toori                               That's right
+
+
+33   どういたしまして           -          Dou itashimashite                        No problem
+
+
+34   助けて!               -          Tasukete!                                Help!
+
+
+35   誰?                 -          Dare?                                    Who?
+
+
+36   何?                 -          Nani?                                    What?
+
+
+37   何人?                -          Nannin?                                  How many?
+
+
+38   いくら?               -          Ikura?                                   How much?
+
+
+39   どのくらい?             -          Dono kurai?                              How long?
+
+
+40   どうやって?             -          Dou yatte?                               How?
+
+
+41   なぜでしょうか?           -          Naze deshou ka?                          Why?
+
+
+42   なぜ?                -          Naze?                                    Why not?
+
+
+43   どれ?                -          Dore?                                    Which?
+
+
+44   どこで?               -          Doko de?                                 Where?
+
+
+45   いつ?                -          Itsu?                                    When?
+
+
+46   そうなの?              -          Sou na no?                               Is there?
+
+
+47   あるの?               -          Aru no?                                  Are there?
+
+
+48   これは何?              -          Kore wa nani?                            What is this?
+
+
+49   これは誰の?             -          Kore wa dare no?                         Whose is this?
+
+
+50   これを中国語で何と呼ぶ?       -          Kore o chuugokugo de nan to yobu?        What do you call this in Chinese?
+
+
+51   いくらですか?            -          Ikura desu ka?                           How much is this?
+                                                                                                        Foreign Language Study
+#    Kanji                  Furigana   Romaji                                 English
+
+52   何してるの?                 -          Nani shiteru no?                       What are you doing?
+
+
+53   何が欲しい?                 -          Nani ga hoshii?                        What do you want?
+
+
+54   どこに行くの?                -          Doko ni iku no?                        Where are you going?
+
+
+55   私は...                  -          Watashi wa...                          I'm going to..
+
+
+56   私たちは...                -          Watashitachi wa...                     We're going to...
+
+
+57   どこに行くの?                -          Doko ni iku no?                        Where are we going?
+
+
+58   今、何が起きているのでしょうか?       -          Ima, nani ga okite iru no deshou ka?   What is happening now?
+
+
+59   誕生日はいつ?                -          Tanjoubi wa itsu?                      When is your birthday?
+
+
+60   忘れないで...               -          Wasurenaide...                         Don't forget...
+
+
+61   すみません                  -          sumimasen                              Excuse me
+
+
+62   自分のことを大切にしてね           -          Jibun no koto o taisetsu ni ne         Take care of yourself
+
+
+63   以前                     -          Izen                                   Before
+
+
+                                                                              I want to go shopping before watching the
+64   映画を見る前に買い物に行きたい        -          Eiga o miru mae ni kaimono ni ikitai
+                                                                              movie
+
+
+65   その後                    -          Sono ato                               After
+
+
+66   買い物に行ったら映画を見るよ         -          Kaimono ni ittara eiga o miru yo       I'll watch a movie after going shopping
+
+
+67   それまで                   -          Sore made                              Until
+
+
+68   明日まで行かなくていいんだ          -          Ashita made ikanakute iin da           I don't have to go until tomorrow
+
+
+69   ここに住んでるの?              -          Koko ni sunderu no?                    Do you live here?
+
+
+70   ここは気に入った?              -          Koko wa ki ni haitta?                  Do you like it here?
+
+
+71   ここが大好きです               -          Koko ga daisuki desu                   I love it here
+
+
+72   休暇で来たんだ                -          Kyuuka de kitanda                      I'm here on holiday
+
+
+73   仕事中                    -          Shigoto chuu                           on business
+
+
+74   仕事に                    -          Shigoto ni                             to work
+
+
+75   勉強するために                -          Benkyou suru tame ni                   to study
+
+
+76   冗談です!                  -          Joudan desu!                           Just kidding!
+
+
+77   ここに来るのは初めてです           -          Koko ni kuru no wa hajimete desu       This is my first time here
+
+
+78   新婚旅行中だ                 -          Shinkon ryokou chuu da                 We're on our honeymoon
+
+
+
+
+🔗 More Japanese Tools                                                                                             All 25 tools 
+
+
+                                                                                                           Foreign Language Study
+             動          部                                   N?                                             🃏
+

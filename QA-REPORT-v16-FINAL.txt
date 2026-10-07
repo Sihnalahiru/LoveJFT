@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "syntax": "PASS",
+  "kanji": 450,
+  "past_papers": 211,
+  "evidence": 211,
+  "sources": 18,
+  "removed_sources_absent": true,
+  "worker_contract": "PASS",
+  "live_gemini_ocr": "NOT_TESTED",
+  "live_cloudflare_deployment": "NOT_TESTED"
+}
