@@ -12,8 +12,10 @@ export default {
   async fetch(request, env){
     if(request.method==='OPTIONS') return new Response(null,{status:204,headers:JSON_HEADERS});
     const url=new URL(request.url);
-    if(url.pathname!=='/ocr') return env.ASSETS.fetch(request);
-    if(request.method!=='POST') return json({ok:false,error:'Use POST /ocr'},405);
+    if(request.method!=='POST' || url.pathname!=='/ocr'){
+      if(request.method==='GET' && env.ASSETS) return env.ASSETS.fetch(request);
+      return json({ok:false,error:'Use POST /ocr'},405);
+    }
     if(!env.GEMINI_API_KEY) return json({ok:false,error:'GEMINI_API_KEY is not configured on the Worker'},503);
     let body;
     try{body=await request.json()}catch{return json({ok:false,error:'Invalid JSON'},400)}
