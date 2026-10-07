@@ -4,3 +4,8 @@ compatibility_date = "2026-10-07"
 
 [vars]
 GEMINI_MODEL = "gemini-3.8-flash"
+
+[assets]
+directory = "../"
+binding = "ASSETS"
+not_found_handling = "single-page-application"
